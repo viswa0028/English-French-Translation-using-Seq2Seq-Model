@@ -26,6 +26,8 @@ To run this project, you need the following installed:
 - PyTorch
 - TorchText
 - NumPy
+- Pandas
+- scikit-learn
 
 Install the required packages using:
 ```sh
